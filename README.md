@@ -1,0 +1,4 @@
+webcatalog
+==========
+
+Panthera webcatalog module
